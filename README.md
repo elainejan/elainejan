@@ -1,6 +1,6 @@
 # Hi there, I'm Elaine Jan 👋
 
-I'm a **Software Engineer** with a knack for design, support, and process improvement. My days are spent solving workflow puzzles and tinkering with **HTML/CSS** and **JavaScript**—with a cup of coffee always nearby.
+I'm a **Software Engineer** with a knack for design, support, and process improvement. My days are spent solving workflow puzzles and tinkering with **HTML/CSS** and **JavaScript**, with a cup of coffee always nearby.
 
 ---
 
